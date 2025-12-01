@@ -44,7 +44,7 @@ Saya adalah individu yang **sedang aktif belajar** dan membangun fondasi kuat di
 
 
 
-## 📈 GitHub Stats (Aktivitas Belajar)
+##  GitHub Stats (Aktivitas Belajar)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramdanprytn&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=Aktivitas%20GitHub&bg_color=1F222E&title_color=4CAF50&icon_color=4CAF50&text_color=FFFFFF" alt="GitHub Stats"/>
