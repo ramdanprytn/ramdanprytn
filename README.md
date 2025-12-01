@@ -7,15 +7,7 @@
 ### Penggiat Sistem Informasi | Belajar dan Berkontribusi.
 
 <p align="center">
-    <a href="LINK_LINKEDIN_ANDA" style="text-decoration: none;" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=5F976D" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:ramdan.p.email@gmail.com" style="text-decoration: none;" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=5F976D" alt="Email Badge"/>
-    </a>
-    <a href="LINK_INSTAGRAM_ANDA" style="text-decoration: none;" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=5F976D" alt="Instagram Badge"/>
-    </a>
+    <a href="LINK_LINKEDIN_ANDA" style="text-decoration: none;" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=5F976D" alt="LinkedIn Badge"/></a><a href="mailto:ramdan.p.email@gmail.com" style="text-decoration: none;" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=5F976D" alt="Email Badge"/></a><a href="LINK_INSTAGRAM_ANDA" style="text-decoration: none;" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=5F976D" alt="Instagram Badge"/></a>
 </p>
 <br>
 
