@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/1000x300/1E4B28/FFFFFF?text=RAMDAN+PRAYITNO+%7C+INFO+SYSTEMS+ENTHUSIAST+%7C+Green+Dark" alt="Header Banner Green Dark" style="border-radius: 10px;">
+<img src="my_header.jpg" style="border-radius: 10px;">
 
 # Halo Dunia! Saya Ramdan Prayitno
 
